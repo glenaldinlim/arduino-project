@@ -21,9 +21,11 @@ Glenaldin Halim
     - [Using Library Manager](#using-library-manager)
     - [Import from .zip file](#import-from-zip-file)
   - [Manual Installation](#manual-installation)
+- [Project](#project)
 - [Reference / Credit](#reference--credit)
 
 ## Libraries
+- [LCD 16x2 I2C](Libraries/Arduino-LiquidCrystal-I2C-library-master.zip)
 
 ### How to import / install libraries to ArduinoIDE
 There are two different step to install libraries to ArduinoIDE, you can download library from `Library Manager` (available from IDE version 1.6.2) or you can import a `.zip` library. 
@@ -49,6 +51,9 @@ NB: the Library will be available to use in sketches, but with older IDE version
 
 ### Manual Installation
 Coming soon, ASAP. 
+
+## Project
+- [Writing Text in LCD16x2 with I2C Module](LiquidCrystal_I2C/readme.md)
 
 ## Reference / Credit
 - [Installing Additional Arduino Libraries](https://www.arduino.cc/en/guide/libraries)
