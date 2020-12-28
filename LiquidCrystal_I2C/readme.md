@@ -14,6 +14,7 @@
 | VCC     | 5V       | Red         |
 | SDA     | A4 / SDA | Blue        |
 | SCL     | A5 / SCL | Yellow      |
+
 Note:
 In LCD I2C, SDA and SCL pin can connect to A4 and A5 pin or SDA and SCL pin in Arduino
 
