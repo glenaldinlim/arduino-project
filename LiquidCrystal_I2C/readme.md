@@ -24,7 +24,7 @@ In LCD I2C, SDA and SCL pin can connect to A4 and A5 pin or SDA and SCL pin in A
  * GRD I2C to GRD Arduino
  * VCC I2C to 5V Arduino
  * SDA I2C to SDA / A4 Arduino
- SCL I2C to SCL / A5 Arduino
+ * SCL I2C to SCL / A5 Arduino
 */
 
 // Libraries
