@@ -56,6 +56,7 @@ Coming soon, ASAP.
 ## Project
 - [Writing Text in LCD16x2 with I2C Module](LiquidCrystal_I2C/readme.md)
 - [Read RFID Tag with RFID RC522 Module](RFID_RC522/readme.md)
+- [Control SG90 Tower Pro Servo Module with Arduino](SG90_Servo/readme.md)
 
 ## Reference / Credit
 - [Installing Additional Arduino Libraries](https://www.arduino.cc/en/guide/libraries)
