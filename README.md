@@ -26,6 +26,7 @@ Glenaldin Halim
 
 ## Libraries
 - [LCD 16x2 I2C](Libraries/Arduino-LiquidCrystal-I2C-library-master.zip)
+- [RFID RC522](Libraries/rfid.zip)
 
 ### How to import / install libraries to ArduinoIDE
 There are two different step to install libraries to ArduinoIDE, you can download library from `Library Manager` (available from IDE version 1.6.2) or you can import a `.zip` library. 
@@ -54,6 +55,7 @@ Coming soon, ASAP.
 
 ## Project
 - [Writing Text in LCD16x2 with I2C Module](LiquidCrystal_I2C/readme.md)
+- [Read RFID Tag with RFID RC522 Module](RFID_RC522/readme.md)
 
 ## Reference / Credit
 - [Installing Additional Arduino Libraries](https://www.arduino.cc/en/guide/libraries)
