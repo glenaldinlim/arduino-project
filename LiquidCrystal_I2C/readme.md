@@ -7,7 +7,7 @@
 - [LCD_I2C Libraries](../Libraries/Arduino-LiquidCrystal-I2C-library-master.zip)
 
 ### Schematic and Wiring
-![Schema-LCD_I2C](Schematic-LCD_I2C.png)
+![Schema-LCD_I2C](./Schematic-LCD_I2C.png)
 | LCD I2C | Arduino  | Cable Color |
 | ------- | -------- | ----------- |
 | GND     | GND      | Black       |
