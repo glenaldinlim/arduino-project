@@ -22,24 +22,24 @@
 ### Source Code
 ```arduino
 /*
-  3V3 RFID to 3.3V Arduino
-  GND to GND Arduino
-  SDA to D10
-  MOSI to D11
-  MISO to D12
-  SCK to D13
-  RST to D5
+ * 3V3 RFID to 3.3V Arduino
+ * GND to GND Arduino
+ * SDA to D10
+ * MOSI to D11
+ * MISO to D12
+ * SCK to D13
+ * RST to D5
 */
 
 // Libraries
 #include <SPI.h>
 #include <MFRC522.h>
- 
+
+// Declare Pin
 int SS_PIN = 10;
 int RST_PIN = 5;
-//int hijau 5
-//int merah 6
 
+// Initialize Libraries
 MFRC522 mfrc522(SS_PIN, RST_PIN);
 
 void setup() 
@@ -48,6 +48,7 @@ void setup()
   SPI.begin();
   mfrc522.PCD_Init();
 }
+
 void loop() 
 {
   String content= "";
