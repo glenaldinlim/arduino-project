@@ -2,7 +2,8 @@
 <hr/>
 
 ## Greeting
-Hello World!
+<p>
+Hello World! </br>
 Welcome to the documentation of a Simple Arduino Project.
 
 All projects in this documentation have I tested, but if you're trying to run the project, but it doesn't work, maybe you can check the pin and also the libraries (if it needs) before adding an issue
@@ -11,6 +12,7 @@ If you had an issue with a credit or a problem with the project, you can add an 
 
 Sincerely,
 Glenaldin Halim
+</p>
 
 ## Table of Content
 - [Greeting](#greeting)
@@ -21,7 +23,7 @@ Glenaldin Halim
   - [How to import / install libraries to ArduinoIDE](#how-to-import--install-libraries-to-arduinoide)
     - [Using Library Manager](#using-library-manager)
     - [Import from .zip file](#import-from-zip-file)
-  - [Manual Installation](#manual-installation)
+    - [Manual Installation](#manual-installation)
 - [Reference / Credit](#reference--credit)
 
 ## Libraries
@@ -59,7 +61,7 @@ Before you use `Library Manager`, your PC must be connected to the Internet
 
 NB: The library will be available to use in the "Sketch" menu. In the older IDE versions, the *Examples* of the library won't be exposed in the *File > Examples* until after the IDE has restarted.
 
-### Manual Installation
+#### Manual Installation
 Coming soon, ASAP. 
 
 ## Reference / Credit
